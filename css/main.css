@@ -18,7 +18,7 @@ header {
   align-items: center;
 }
 
-/* LOGO */
+/* STYLE UNTUK LOGO */
 .logo {
   display: flex;
   align-items: center;
@@ -46,6 +46,7 @@ header {
   letter-spacing: 1.2px;
 }
 
+/* STYLE UNTUK NAVBAR */
 nav ul {
   display: flex;
   list-style: none;
@@ -95,7 +96,7 @@ nav ul li a:hover {
   background: #0d44b3;
 }
 
-/* HERO SECTION */
+/* STYLE UNTUK SECTION HERO */
 .hero {
   display: flex;
   justify-content: space-between;
@@ -173,7 +174,7 @@ nav ul li a:hover {
   color: #1f69fd;
 }
 
-/* RIGHT IMAGE */
+/* STYLE UNTUK KONTEN BAGIAN KANAN */
 .hero-right {
   position: relative;
   display: flex;
@@ -182,7 +183,7 @@ nav ul li a:hover {
   margin-bottom: -140px;
 }
 
-/* PROFILE IMAGE */
+/* STYLE UNTUK GAMBAR KANAN */
 .hero-right img {
   width: 620px;
   border-radius: 10px;
@@ -190,7 +191,7 @@ nav ul li a:hover {
   z-index: 2;
 }
 
-/* CIRCLE BACKGROUND */
+/* STYLE UNTUK ELEMEN CIRCLE LINES (DECORATOION) */
 .circle-lines {
   position: absolute;
   top: 47%;
@@ -207,7 +208,7 @@ nav ul li a:hover {
   opacity: 0.6;
 }
 
-/* FLOATING BALLS */
+/* STYLE UNTUK ELEMEN BULAT (DECORATION) */
 .floating-ball {
   width: 55px;
   height: 55px;
@@ -231,7 +232,7 @@ nav ul li a:hover {
   bottom: 10%; left: -30px; animation-delay: 1s;
 }
 
-/* HIGHLIGHT TOOLS SECTION */
+/* STYLE UNTUK SECTION TOOLS */
 .highlight-tools {
   width: 100%;
   background:  #9bb4d6;
@@ -258,3 +259,4 @@ nav ul li a:hover {
   opacity: 1;
   transform: scale(1.08);
 }
+
