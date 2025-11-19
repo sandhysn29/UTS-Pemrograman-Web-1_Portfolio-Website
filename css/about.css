@@ -18,7 +18,7 @@ header {
   align-items: center;
 }
 
-/* LOGO */
+/* STYLE UNTUK LOGO */
 .logo {
   display: flex;
   align-items: center;
@@ -46,6 +46,7 @@ header {
   letter-spacing: 1.2px;
 }
 
+/* STYLE UNTUK NAVBAR */
 nav ul {
   display: flex;
   list-style: none;
@@ -95,6 +96,7 @@ nav ul li a:hover {
   background: #0d44b3;
 }
 
+/* STYLE UNTUK SECTION UTAMA */
 .page-wrapper {
   max-width: 1350px;
   margin: 0 auto;
@@ -120,7 +122,7 @@ nav ul li a:hover {
   z-index: 1;
 }
 
-/* PHOTO CARD KIRI */
+/* STYLE UNTUK KONTEN BAGIAN KIRI */
 .about-photo-card {
   flex: 0 0 360px;
   position: relative;
@@ -147,6 +149,7 @@ nav ul li a:hover {
   transform: translateY(5px);
 }
 
+/* STYLE UNTUK KONTEN BAGIAN KANAN */
 .about-content {
   flex: 1;
 }
@@ -225,4 +228,5 @@ nav ul li a:hover {
 .btn-main:hover {
   background: #0d44b3;
 }
+
 
