@@ -18,7 +18,7 @@ header {
   align-items: center;
 }
 
-/* LOGO */
+/* STYLE UNTUK LOGO */
 .logo {
   display: flex;
   align-items: center;
@@ -46,6 +46,7 @@ header {
   letter-spacing: 1.2px;
 }
 
+/* STYLE UNTUK NAVBAR */
 nav ul {
   display: flex;
   list-style: none;
@@ -95,14 +96,14 @@ nav ul li a:hover {
   background: #0d44b3;
 }
     
-    /* PAGE WRAPPER */
+    /* STYLE UNTUK SECTION UTAMA */
     .page-wrapper {
       max-width: 1200px;
       margin: 0 auto;
       padding: 40px 32px 80px;
     }
 
-    /* GALLERY SECTION */
+    /* STYLE UNTUK SECTION GALLERY */
     .gallery-section {
       background: radial-gradient(circle at left, #133866 0%, #0a1f33 50%, #020617 100%);
       border-radius: 24px;
@@ -141,7 +142,7 @@ nav ul li a:hover {
       letter-spacing: 0.06em;
     }
 
-    /* CARD GRID */
+    /* STYLE UNTUK GRID CARD */
     .project-grid {
       display: flex;
       gap: 22px;
@@ -242,7 +243,7 @@ nav ul li a:hover {
       border-color: rgba(148, 163, 184, 0.7);
     }
 
-    /* RING DECORATION (optional, biar mirip-mirip) */
+    /* STYLE UNTUK ELEMEN RING (DECORATION)  */
     .ring-right {
       position: absolute;
       width: 160px;
@@ -299,4 +300,5 @@ nav ul li a:hover {
       .project-card {
         max-width: 100%;
       }
+
     }    
